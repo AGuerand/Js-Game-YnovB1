@@ -4,10 +4,11 @@ Simple jeu en javascript
 # Lien de Développement
 
 
-Rendez-vous sur [mon git](https://github.com/FeutreEnBois) <br>
-Collaborateur : [FeutreEnbois](https://github.com/FeutreEnBois) <br>
-[ErikDRen](ErikDRen) <br>
-Silerion
+Rendez-vous sur [mon git](https://github.com/AGuerand) <br>
+Collaborateur : 
+[FeutreEnbois](https://github.com/FeutreEnBois) <br>
+[ErikDRen](https://github.com/ErikDRen) <br>
+[Silerion](https://github.com/Silerion)
 
 Le fichier Phaser : [Phaser.min](https://cdnjs.cloudflare.com/ajax/libs/phaser/2.0.7/phaser.min.js) <br>
 si le lien ne fonctinne pas vous pouvez copiez coller le lien suivant : https://cdnjs.cloudflare.com/ajax/libs/phaser/2.0.7/phaser.min.js
