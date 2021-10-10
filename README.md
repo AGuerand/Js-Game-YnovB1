@@ -1,4 +1,7 @@
 # Le donjon des oublis
+
+![](Capture.PNG)
+
 Simple game in javascript, school project at Paris Ynov Campus
 
 Created by [FeutreEnbois](https://github.com/FeutreEnBois), [ErikDRen](https://github.com/ErikDRen), [Silerion](https://github.com/Silerion) and Anthony GUERAND
